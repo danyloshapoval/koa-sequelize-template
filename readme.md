@@ -1,0 +1,3 @@
+- npm i
+- npm run startd
+- docker-compose up --build -V
