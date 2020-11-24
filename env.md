@@ -1,0 +1,7 @@
+HOST=0.0.0.0
+PORT=1234
+DB_HOST=postgres
+DB_NAME=dev
+DB_USER=root
+DB_PASSWORD=root
+DB_PORT=5432

@@ -1,0 +1,27 @@
+.db
+**/node_modules
+**/.env.*
+.env
+
+*.DS_Store
+.DS_Store
+**/pass
+**/deploy/app/sa.json
+# For Terraform
+# Local .terraform directories
+**/.terraform/*
+**/.terragrunt/*
+**/.terragrunt-cache*
+**/.terragrunt-cache/*
+# .tfstate files
+*.tfstate
+*.tfstate.*
+crash.log
+
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraformrc
+terraform.rc
+*.secrets
